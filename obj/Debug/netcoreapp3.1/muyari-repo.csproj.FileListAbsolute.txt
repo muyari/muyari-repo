@@ -1,0 +1,13 @@
+C:\sc\muyari-repo\bin\Debug\netcoreapp3.1\muyari-repo.exe
+C:\sc\muyari-repo\bin\Debug\netcoreapp3.1\muyari-repo.deps.json
+C:\sc\muyari-repo\bin\Debug\netcoreapp3.1\muyari-repo.runtimeconfig.json
+C:\sc\muyari-repo\bin\Debug\netcoreapp3.1\muyari-repo.runtimeconfig.dev.json
+C:\sc\muyari-repo\bin\Debug\netcoreapp3.1\muyari-repo.dll
+C:\sc\muyari-repo\bin\Debug\netcoreapp3.1\muyari-repo.pdb
+C:\sc\muyari-repo\obj\Debug\netcoreapp3.1\muyari-repo.csprojAssemblyReference.cache
+C:\sc\muyari-repo\obj\Debug\netcoreapp3.1\muyari-repo.AssemblyInfoInputs.cache
+C:\sc\muyari-repo\obj\Debug\netcoreapp3.1\muyari-repo.AssemblyInfo.cs
+C:\sc\muyari-repo\obj\Debug\netcoreapp3.1\muyari-repo.csproj.CoreCompileInputs.cache
+C:\sc\muyari-repo\obj\Debug\netcoreapp3.1\muyari-repo.dll
+C:\sc\muyari-repo\obj\Debug\netcoreapp3.1\muyari-repo.pdb
+C:\sc\muyari-repo\obj\Debug\netcoreapp3.1\muyari-repo.genruntimeconfig.cache
